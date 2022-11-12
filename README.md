@@ -19,4 +19,8 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 
 [alwaysdata.com](https://www.alwaysdata.com/en/) - All your services in one place.
 
+[koyeb.com](https://www.koyeb.com/) - The Fastest Way to deploy the applications globally .
 
+[clever-cloud.com](https://www.clever-cloud.com/) - Everything but the code 
+
+[netlify.com](https://www.netlify.com/) - Bring it all together.
